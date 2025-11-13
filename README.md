@@ -22,5 +22,5 @@ tripic project
 11. 플러터 폴더에서 우리는 앱을 제작하기 때문에 ios와 android 디렉토리를 남기고 삭제 (windows, macos, web, linux)
 
 
-
+sss
 
